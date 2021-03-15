@@ -1,6 +1,6 @@
 {
   "name": "reminder",
-  "http://Johnsonarul123.github.io/birthday-reminder-react"
+  "homepage":"http://Johnsonarul123.github.io/birthday-reminder-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
